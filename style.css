@@ -1,0 +1,17 @@
+label {
+    padding: 5px;
+  }
+  
+input, button {
+    margin: 5px;
+    margin-bottom: 20px;
+  }
+
+textarea {
+    margin: 5px;
+    margin-bottom: 20px;
+    height: 125px;
+  }
+
+
+  
